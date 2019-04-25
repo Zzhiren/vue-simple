@@ -2,7 +2,8 @@
 
 </style>
 <template lang="pug">
-  div A Vue.js Project!
+  div 
+    h1 A Vue.js Project!
 </template>
 <script>
 export default {
